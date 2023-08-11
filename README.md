@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jepeake/jepeake/blob/main/images/wordart.png?raw=true" style="max-width: 100%;" />
+  <img src="https://github.com/jepeake/jepeake/blob/main/images/wordart(2).png?raw=true" style="max-width: 100%;" />
   <br />
   <hr>
 </div>
