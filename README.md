@@ -8,7 +8,6 @@
   <i>I'm Jacob</i><br>
   <i>Computer Engineering Student @ Imperial College</i><br>
   <i>Avionics Engineer @ Karman Space Programme</i><br>
-  <i>Interested in Machine Learning & Robotics</i><br>
   <img src="https://raw.githubusercontent.com/jepeake/jepeake/main/images/redbook.gif"height="50" />
 </div>
 
