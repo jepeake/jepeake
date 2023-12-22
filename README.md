@@ -1,23 +1,23 @@
 <div align="center">
   <img src="https://github.com/jepeake/jepeake/blob/main/images/wordart(2).png?raw=true" style="max-width: 100%;" />
-  <br />
   <hr>
 </div>
+<br>
+<p align="center"><i>“You have power over your mind - not outside events. Realize this, and you will find strength.”</i></p>
+<p align="center"><i>- Marcus Aurelius (121-180 AD)</i></p>
+
+<br>
+
+<details>
+<summary><i>discover...</i></summary>
+
+<br>
 
 <div>
-  <i>I'm Jacob</i><br>
-  <i>Computer Engineering Student @ Imperial College</i><br>
-  <i>Avionics Lead @ Karman Space Programme</i><br>
-  <img src="https://raw.githubusercontent.com/jepeake/jepeake/main/images/redbook.gif"height="50" />
+  <i>I'm Jacob</i><br><br>
+  - <i>Computer Engineering Student @ Imperial College</i><br>
+  - <i>Avionics Lead @ Karman Space Programme</i><br>
+  - <i> Prev. Software Engineering Intern @ Qualcomm </i><br><br>
 </div>
 
-
-
-<div align="center">
-  <hr>
-  <img src="https://raw.githubusercontent.com/jepeake/jepeake/main/images/netscape.gif"height="30" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/jepeake/jepeake/main/images/ieplorer.gif"/>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/jepeake/jepeake/main/images/noframes.gif"/>
-</div>
+</details>
