@@ -22,5 +22,6 @@
 | <i>[Imperial EIE Notes](https://github.com/jepeake/Imperial-EIE-Notes)</i> | <i> Notes from Imperial College EIE 3rd Year Course. </i>|
 | <i>[Portfolio Webpage](https://github.com/jepeake/jepeake.github.io)</i> | <i> Personal Portfolio Webpage. </i>|
 | <i>[Architectural Exploration](https://github.com/jepeake/arch-exploration)</i> | <i> Microarchitectural Exploration with Splay Trees & SimpleScalar. </i>|
+| <i>[Manticore Review](https://github.com/jepeake/Manticore-Review)</i> | <i> Review of Manticore: Hardware-Accelerated RTL Simulation with Static Bulk-Synchronous Parallelism </i>|
 
 </details>
