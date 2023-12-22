@@ -1,13 +1,7 @@
-<div align="center">
-  <img src="https://github.com/jepeake/jepeake/blob/main/images/wordart(2).png?raw=true" style="max-width: 100%;" />
-  <hr>
-</div>
-<p align="center"><i>“You have power over your mind - not outside events. Realize this, and you will find strength.”</i></p>
-<p align="center"><i>- Marcus Aurelius (121-180 AD)</i></p>
-
-<br>
-
 ![readme](https://github.com/jepeake/jepeake/assets/59978422/d55cd6fe-44c4-4145-a293-4f1cf058bb17)
+
+<p><i>“You have power over your mind - not outside events. Realize this, and you will find strength.”</i></p>
+<p><i>- Marcus Aurelius (121-180 AD)</i></p>
 
 <details>
 <summary><i>Repositories</i></summary>
