@@ -21,5 +21,6 @@
 | <i>[Autonomous Pathfinder Robot](https://github.com/jepeake/pathfinding-robot)</i> | <i> Autonomous Pathfinder Robot to Navigate, Map & Find Shortest Path through a Maze. </i>|
 | <i>[Imperial EIE Notes](https://github.com/jepeake/Imperial-EIE-Notes)</i> | <i> Notes from Imperial College EIE 3rd Year Course. </i>|
 | <i>[Portfolio Webpage](https://github.com/jepeake/jepeake.github.io)</i> | <i> Personal Portfolio Webpage. </i>|
+| <i>[Architectural Exploration](https://github.com/jepeake/arch-exploration)</i> | <i> Microarchitectural Exploration with Splay Trees & SimpleScalar. </i>|
 
 </details>
