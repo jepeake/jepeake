@@ -7,7 +7,7 @@
 <div>
   <i>I'm Jacob</i><br>
   <i>Computer Engineering Student @ Imperial College</i><br>
-  <i>Avionics Engineer @ Karman Space Programme</i><br>
+  <i>Avionics Lead @ Karman Space Programme</i><br>
   <img src="https://raw.githubusercontent.com/jepeake/jepeake/main/images/redbook.gif"height="50" />
 </div>
 
