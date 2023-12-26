@@ -7,7 +7,7 @@
 
 | <i>Repository</i> | <i>Description</i> |
 |--------------------|--------------------|
-| <i>[Architectural Exploration](https://github.com/jepeake/arch-exploration)</i> | <i> Microarchitectural Exploration with Splay Trees & SimpleScalar. </i>|
+| <i>[Architectural Optimisation](https://github.com/jepeake/Architectural-Optimisation)</i> | <i> Microarchitectural Exploration with Splay Trees & SimpleScalar. </i>|
 | <i>[Neural Network for Regression](https://github.com/jepeake/NN-For-Regression)</i> | <i> A NN Mini-Library & NN Regressor Model to Estimate Housing Prices. </i>|
 | <i>[Decision Tree Classifier](https://github.com/jepeake/Decision-Tree-Classifier)</i> | <i> Implementation of a Decision Tree Classifier to Determine Location based on Signal Strength.</i>|
 | <i>[C-to-RISCV Compiler](https://github.com/jepeake/C-to-RISCV-Compiler)</i> | <i>C to RISC-V Compiler Implemented with C++, Lex, & Bison</i> |
