@@ -15,7 +15,7 @@
 | <i>[Pathfinder](https://github.com/jepeake/pathfinding-robot)</i> | <i> Autonomous Pathfinder Robot to Navigate, Map & Find Shortest Path through a Maze. </i>|
 | <i>[Imperial EIE Notes](https://github.com/jepeake/Imperial-EIE-Notes)</i> | <i> Notes from Imperial College EIE 3rd Year Course. </i>|
 | <i>[Neetcode 150 Solutions](https://github.com/jepeake/Neetcode-150-Solutions)</i> | <i> My Solutions to the Neetcode 150 - a popular set of Leetcode Questions. </i>|
+| <i>[Data Structures & Algorithms](https://github.com/jepeake/Data-Structures-And-Algorithms)</i> | <i> A Collection of Notes on Data Structures & Algorithms (DSA). </i>|
 | <i>[Portfolio Webpage](https://github.com/jepeake/jepeake.github.io)</i> | <i> Personal Portfolio Webpage. </i>|
-| <i>[Manticore Review](https://github.com/jepeake/Manticore-Review)</i> | <i> Review of Manticore: Hardware-Accelerated RTL Simulation with Static Bulk-Synchronous Parallelism </i>|
 
 </details>
