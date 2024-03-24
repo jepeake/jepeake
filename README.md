@@ -13,7 +13,6 @@
 | <i>[C-to-RISCV Compiler](https://github.com/jepeake/C-to-RISCV-Compiler)</i> | <i>C to RISC-V Compiler Implemented with C++, Lex, & Bison</i> |
 | <i>[RISC-V CPU](https://github.com/jepeake/RISCV-CPU)</i> | <i> RISC-V CPU Implemented in SystemVerilog & Verified with C++/Verilator </i>|
 | <i>[Pathfinder](https://github.com/jepeake/pathfinding-robot)</i> | <i> Autonomous Pathfinder Robot to Navigate, Map & Find Shortest Path through a Maze. </i>|
-| <i>[Portfolio Webpage](https://github.com/jepeake/jepeake.github.io)</i> | <i> Personal Portfolio Webpage. </i>|
 
 </details>
 
@@ -25,7 +24,5 @@
 | <i>Repository</i> | <i>Description</i> |
 |--------------------|--------------------|
 | <i>[Imperial EIE Notes](https://github.com/jepeake/Imperial-EIE-Notes)</i> | <i> Notes from Imperial College EIE 3rd Year Course. </i>|
-| <i>[Neetcode 150 Solutions](https://github.com/jepeake/Neetcode-150-Solutions)</i> | <i> My Solutions to the Neetcode 150 - a popular set of Leetcode Questions. </i>|
-| <i>[Data Structures & Algorithms](https://github.com/jepeake/Data-Structures-And-Algorithms)</i> | <i> A Collection of Notes on Data Structures & Algorithms (DSA). </i>|
 
 </details>
