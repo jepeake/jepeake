@@ -1,5 +1,3 @@
-![readme](https://github.com/jepeake/jepeake/assets/59978422/0a1ae556-bd41-4ba5-ae5a-07e9948a1f27)
-
 <details>
 <summary><i>Projects</i></summary>
 
