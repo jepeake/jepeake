@@ -18,4 +18,4 @@
 
 [𝐭𝐢𝐧𝐲 𝐜𝐩𝐮](https://github.com/jepeake/tinycpu) (𝟐𝟎𝟐𝟐)
 
-[𝐬𝐭𝐮𝐝𝐲𝐭𝐫𝐚𝐜𝐤𝐞𝐫](https://github.com/jepeake/tinycpu)) (𝟐𝟎𝟐𝟐)
+[𝐬𝐭𝐮𝐝𝐲𝐭𝐫𝐚𝐜𝐤𝐞𝐫](https://github.com/jepeake/studytracker) (𝟐𝟎𝟐𝟐)
