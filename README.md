@@ -2,7 +2,7 @@
 
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
 
-[𝐬𝐦𝐩𝐆𝐄𝐌𝐌](https://github.com/jepeake/smpGEMM) (𝟐𝟎𝟐𝟓) 
+[𝐬𝐩𝐦𝐩𝐆𝐄𝐌𝐌](https://github.com/jepeake/smpGEMM) (𝟐𝟎𝟐𝟓) 
 
 [𝐦𝐭𝐨𝐩](https://github.com/jepeake/mtop) (𝟐𝟎𝟐𝟒)      <img align="right" src="https://github.com/user-attachments/assets/ac4a1859-2f47-47a6-9677-8614bff562da" width="400" vspace="200" hspace="200">
 
