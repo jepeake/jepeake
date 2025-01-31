@@ -4,7 +4,7 @@
 
 [𝐬𝐩𝐦𝐩𝐌𝐌](https://github.com/jepeake/smpGEMM) (𝟐𝟎𝟐𝟓) 
 
-[𝐦𝐭𝐨𝐩](https://github.com/jepeake/mtop) (𝟐𝟎𝟐𝟒)      <img align="right" src="https://github.com/user-attachments/assets/ac4a1859-2f47-47a6-9677-8614bff562da" width="400" vspace="200" hspace="200">
+[𝐦𝐭𝐨𝐩](https://github.com/jepeake/mtop) (𝟐𝟎𝟐𝟒)     
 
 [𝐭𝐢𝐧𝐲 𝐟𝐥𝐚𝐬𝐡 𝐚𝐭𝐭𝐞𝐧𝐭𝐢𝐨𝐧](https://github.com/jepeake/tiny-flash-attention) (𝟐𝟎𝟐𝟒) 
 
@@ -20,3 +20,6 @@
 
 [𝐬𝐭𝐮𝐝𝐲𝐭𝐫𝐚𝐜𝐤𝐞𝐫](https://github.com/jepeake/studytracker) (𝟐𝟎𝟐𝟐)
 
+<br>
+
+ <img src="https://github.com/user-attachments/assets/ac4a1859-2f47-47a6-9677-8614bff562da" width="400">
