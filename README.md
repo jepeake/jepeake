@@ -2,7 +2,7 @@
 
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
 
-[𝐬𝐩𝐦𝐩𝐌𝐌](https://github.com/jepeake/smpGEMM) 
+[panda](https://github.com/jepeake/panda) 
 
 [𝐦𝐭𝐨𝐩](https://github.com/jepeake/mtop)     
 
