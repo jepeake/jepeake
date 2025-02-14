@@ -2,7 +2,7 @@
 
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
 
-[panda](https://github.com/jepeake/panda) 
+[𝐩𝐚𝐧𝐝𝐚](https://github.com/jepeake/panda) 
 
 [𝐦𝐭𝐨𝐩](https://github.com/jepeake/mtop)     
 
