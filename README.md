@@ -19,7 +19,3 @@
 [𝐭𝐢𝐧𝐲 𝐜𝐩𝐮](https://github.com/jepeake/tinycpu) 
 
 [𝐬𝐭𝐮𝐝𝐲𝐭𝐫𝐚𝐜𝐤𝐞𝐫](https://github.com/jepeake/studytracker) 
-
-<br>
-
- <img src="https://github.com/user-attachments/assets/ac4a1859-2f47-47a6-9677-8614bff562da" width="400">
