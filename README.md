@@ -1,1 +1,1 @@
-_chips & machine learning_
+_deep learning, gpus, chip architecture_
