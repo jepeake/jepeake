@@ -1,1 +1,1 @@
-_deep learning, gpus, computer architecture_
+_computing_
